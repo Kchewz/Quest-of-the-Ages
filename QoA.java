@@ -1,6 +1,5 @@
 /* Program: QoA
  * Author: Kenneth Chyzewski & Cameron Harvey
- * Date: 11/26/2014
  * Description: This is what is used to run the game: Quest of the Ages.
  */
 import java.io.*;//This is req for command line input
