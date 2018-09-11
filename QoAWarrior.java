@@ -1,6 +1,5 @@
 /* Program: QoAWarrior
  * Author: Kenneth Chyzewski & Cameron Harvey
- * Date: 11/26/2014
  * Description: This code runs the game if the user wants to be a warrior.
  */
 
