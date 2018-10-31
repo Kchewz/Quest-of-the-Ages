@@ -698,7 +698,7 @@ public class QoAWarrior
     if(treeh <= 0) //When the enemys health is 0 or below 0, this if statement occurs and ends the battle
     {
       System.out.println("You have slit the tree ents roots open and it fell to the ground.");
-      gold = 5; //Adds your earned gold to your total gold
+      gold = gold + 5; //Adds your earned gold to your total gold
       System.out.println("You have earned: " + gold + " gold"); //Notifies the user what's their total amount of gold
       flag1 = false; //The program realizes the enemy's health is 0 or below 0, therefore the flag is set to false and the battle ends
     }
