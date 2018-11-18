@@ -38,4 +38,4 @@ at any point in time, the game will end & ask you Would you like to
 play again?" If you type yes the game starts fresh from the beginning. 
 Or if you type no or anything else the program will end. Now you're 
 ready to enter the world of Quest of the Ages.
-**********************************************************************   
+**********************************************************************    
